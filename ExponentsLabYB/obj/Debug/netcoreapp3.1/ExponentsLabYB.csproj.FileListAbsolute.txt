@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\bin\Debug\netcoreapp3.1\ExponentsLabYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day3Exercise\ExponentsLabYB\ExponentsLabYB\obj\Debug\netcoreapp3.1\ExponentsLabYB.genruntimeconfig.cache
